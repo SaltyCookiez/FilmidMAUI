@@ -1,4 +1,4 @@
-﻿namespace FilmidMAUI;
+﻿namespace FilmidMAUI.Pages;
 
 public partial class MainPage : ContentPage
 {
